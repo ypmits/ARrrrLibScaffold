@@ -1,14 +1,16 @@
 {
-	"name": "generator-MM_socialAR",
+	"name": "generator-mm_social_ar",
 	"version": "0.1.0",
-	"description": "",
+	"description": "A generator to get you up to speed on developing a SparkAR or a Lens Studio app",
 	"files": [
-		"generators"
+		"scripts"
 	],
 	"keywords": [
-		"yeoman-generator"
+		"yeoman-generator",
+		"spark-ar",
+		"lens studio"
 	],
 	"dependencies": {
-		"yeoman-generator": "^1.1.1"
+		"yeoman-generator": "^1.0.0"
 	}
 }
